@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **linux, cloud, devops, sysadmin, archlinux, python**
 
-- 📫 How to reach me **https://www.linkedin.com/in/guillermogarcialedezma/**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/guillermogarcialedezma/](https://www.linkedin.com/in/guillermogarcialedezma/)
 
 - ⚡ Fact **I love dogs, beach, and play guitar**
