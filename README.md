@@ -7,6 +7,8 @@
 
 - 📝 I regularly write articles on [https://www.ahioros.info](https://www.ahioros.info)
 
+- 🎥 I complement my articles with videos on YouTube, this is my [channel](https://youtube.com/ahiorostech).
+
 - 💬 Ask me about **linux, cloud, SRE/devops, sysadmin, archlinux, python, kubernetes, docker**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guillermogarcialedezma/](https://www.linkedin.com/in/guillermogarcialedezma/)
