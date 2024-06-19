@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillermo G</h1>
-<h3 align="center">A passionate Sysadmin/DevOps</h3>
+<h3 align="center">A passionate Sysadmin/SRE/DevOps</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahioros" alt="ahioros" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.ahioros.info](https://www.ahioros.info)
 
-- 💬 Ask me about **linux, cloud, devops, sysadmin, archlinux, python**
+- 💬 Ask me about **linux, cloud, SRE/devops, sysadmin, archlinux, python, kubernetes, docker**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guillermogarcialedezma/](https://www.linkedin.com/in/guillermogarcialedezma/)
 
