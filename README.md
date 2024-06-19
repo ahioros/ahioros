@@ -9,7 +9,7 @@
 
 - 🎥 I complement my articles with videos on YouTube, this is my Youtube [channel](https://www.youtube.com/channel/UChRigG7YCXK34fVZcsfRsNw/videos).
 
-- 💬 Ask me about **linux, cloud, SRE/devops, sysadmin, archlinux, python, kubernetes, docker**
+- 💬 [Ask me about](https://www.ahioros.info/p/contactame.html) **linux, cloud, SRE/devops, sysadmin, archlinux, python, kubernetes, docker**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guillermogarcialedezma/](https://www.linkedin.com/in/guillermogarcialedezma/)
 
